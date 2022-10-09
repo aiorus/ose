@@ -13,7 +13,7 @@
   },
   "author": "RealityRipple",
   "esmodules": [
-    "dist/module/facbula.js"
+    "dist/module/fabula.js"
   ],
   "styles": [
     "dist/fabula.css"
